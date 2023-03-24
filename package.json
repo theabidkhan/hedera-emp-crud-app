@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@hashgraph/sdk": "^2.23.0",
+    "dotenv": "^16.0.3",
+    "solc": "^0.8.19",
+    "web3": "^1.9.0"
+  }
+}
